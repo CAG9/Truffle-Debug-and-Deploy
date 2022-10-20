@@ -1,4 +1,4 @@
-# Truffle-Debug-and-Deploy
+# Truffle Debug and Deploy
 ## Author
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## License
